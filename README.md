@@ -6,6 +6,6 @@ Application for food ordering - made in Flutter
 
 flutter create fame
 
-## Run app
+## run app
 
 flutter run -d chrome
